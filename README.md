@@ -298,14 +298,3 @@ Educational / Experimental
 PurpleMind is a learning project designed to explore the connection between Python, networking, cybersecurity, data science, and Machine Learning.
 
 The project should be improved step by step while keeping the system understandable and controlled.
-
-License
-
-Add your preferred license here.
-
-For example:
-
-MIT License
-
-
-See the LICENSE file for details.
